@@ -1,0 +1,11 @@
+{
+    "AppName": "I Change My City",
+    "AppURL": "https://complaints.ichangemycity.com/",
+    "APIVersion": "v3",
+    "ServerPort": ":9001",
+    "MongoDBHost": "localhost",
+    "MongoDBPort": 27017,
+    "MongoDBName": "icmyc_complaints",
+    "MongoDBUsername": "",
+    "MongoDBPassword": ""
+}
